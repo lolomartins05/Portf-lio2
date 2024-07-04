@@ -1,0 +1,27 @@
+main{    
+    padding: 20px;
+    margin:50px;
+    text-align: justify;
+}
+
+
+hr {
+    border: none; 
+    height: 3px; 
+    background-color: #FCC996; 
+    margin-top:50px ; 
+}
+
+
+@media(max-width: 900px){
+
+}
+@media(max-width: 730px){
+    
+
+}
+@media(max-width: 530px){
+      
+    
+
+}
